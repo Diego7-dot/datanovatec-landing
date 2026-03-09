@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
-import landingImg from "../assets/images/Landing_2.jpg";
-import dashboardImg from "../assets/images/dahsboard_1.jpg";
-import automationImg from "../assets/images/Automate_1.jpg";
+import landingImg from "./assets/images/Landing_2.jpg";
+import dashboardImg from "./assets/images/dahsboard_1.jpg";
+import automationImg from "./assets/images/Automate_1.jpg";
 import {
   MessageCircle,
   BarChart3,
